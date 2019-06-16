@@ -11,7 +11,17 @@
 
 .jumbotron {
   background-color: #6003C3;
+  padding: 3%;
+}
+
+h1{
+  font-size:3rem;
   color: white;
   font-family: 'Veneer';
-  font-size: 8rem;
+}
+
+p{
+  color: #6003C3;
+  font-family: 'Veneer';
+  font-size:1.5rem;
 }
