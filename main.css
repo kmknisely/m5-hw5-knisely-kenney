@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+.jumbotron {
+  background-color: #6003C3;
+  color: white;
+  font-family: "Veneer Clean Reg";
+}
