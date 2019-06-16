@@ -4,8 +4,14 @@
   border: 0;
 }
 
+@font-face {
+  font-family: 'Veneer';
+  src: url(veneer.ttf);
+}
+
 .jumbotron {
   background-color: #6003C3;
   color: white;
-  font-family: "Veneer Clean Reg";
+  font-family: 'Veneer';
+  font-size: 8rem;
 }
